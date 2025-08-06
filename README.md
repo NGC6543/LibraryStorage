@@ -62,7 +62,7 @@ DB_PORT=5432
 
 # Стек технологий
 - Python 3.11.0
-- aiogram
+- FastApi
 - PostgreSQL
 - Docker
 
